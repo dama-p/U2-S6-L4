@@ -1,0 +1,18 @@
+@import "bootstrap-overrides";
+
+.hero .row {
+    width: 80%;
+}
+
+.navicons img{
+    width: 50px;
+    margin: 0.5em;
+}
+
+h1 {
+    color: $secondary;
+}
+
+.hero p {
+    color: darken($secondary, 20%);
+}
